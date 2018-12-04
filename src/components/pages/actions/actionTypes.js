@@ -1,0 +1,3 @@
+export const ADD_USER_LIST = 'ADD_USER_LIST';
+export const ADD_POST_LIST = 'ADD_POST_LIST';
+export const ADD_COMMENT_LIST = 'ADD_COMMENT_LIST';

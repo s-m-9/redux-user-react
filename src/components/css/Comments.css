@@ -1,0 +1,15 @@
+.loader {
+    width: 512px;
+    height: 512px;
+    display: block;
+    margin: 0 auto
+   
+}
+
+span {
+    text-align: center
+}
+
+.home-link {
+    text-align: center
+}

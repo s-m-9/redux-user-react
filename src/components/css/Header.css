@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Domine|Open+Sans');
+
+.app-header {
+    height: 4rem;
+    background-color: #EF5B5B;
+    color:white;
+    border-top: 1rem solid #EF5B5B;
+    border-bottom: 0.5rem solid #820933
+}
+/* font-family: 'Lato', sans-serif; */
+/* font-family: 'Roboto Slab', serif; */
+.app-header h3 {
+    font-size: 1.5rem;
+    /* line-height: 6rem; */
+    font-family: 'Domine', serif; 
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
